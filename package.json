@@ -1,0 +1,24 @@
+{
+  "name": "servicekm",
+  "version": "1.0.0",
+  "description": "serviceKM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thosapor1/serviceKM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thosapor1/serviceKM/issues"
+  },
+  "homepage": "https://github.com/thosapor1/serviceKM#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
