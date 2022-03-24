@@ -19,6 +19,7 @@
   "homepage": "https://github.com/thosapor1/serviceKM#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "mssql": "^8.0.2",
     "nodemon": "^2.0.15"
   }
 }
